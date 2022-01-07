@@ -1,0 +1,6 @@
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E03_NomeCompletoClasses_v1\bin\Debug\FuncionarioDadosPessoais.exe.config
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E03_NomeCompletoClasses_v1\bin\Debug\FuncionarioDadosPessoais.exe
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E03_NomeCompletoClasses_v1\bin\Debug\FuncionarioDadosPessoais.pdb
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E03_NomeCompletoClasses_v1\obj\Debug\E03_NomeCompletoClasses_v1.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E03_NomeCompletoClasses_v1\obj\Debug\FuncionarioDadosPessoais.exe
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E03_NomeCompletoClasses_v1\obj\Debug\FuncionarioDadosPessoais.pdb
