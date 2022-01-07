@@ -1,0 +1,14 @@
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E04_Calculadora_v1\bin\Debug\Calculadora.exe.config
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E04_Calculadora_v1\bin\Debug\Calculadora.exe
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E04_Calculadora_v1\bin\Debug\Calculadora.pdb
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E04_Calculadora_v1\obj\Debug\E04_Calculadora_v1.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E04_Calculadora_v1\obj\Debug\E04_Calculadora_v1.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E04_Calculadora_v1\obj\Debug\Calculadora.exe
+C:\_APC_CP_2021\C01_PFP\10_20-10-2021\PFP\E04_Calculadora_v1\obj\Debug\Calculadora.pdb
+C:\_APC_CP_2021\C01_PFP\11_20-10-2021\PFP\E04_Calculadora_v1\bin\Debug\Calculadora.exe.config
+C:\_APC_CP_2021\C01_PFP\11_20-10-2021\PFP\E04_Calculadora_v1\bin\Debug\Calculadora.exe
+C:\_APC_CP_2021\C01_PFP\11_20-10-2021\PFP\E04_Calculadora_v1\bin\Debug\Calculadora.pdb
+C:\_APC_CP_2021\C01_PFP\11_20-10-2021\PFP\E04_Calculadora_v1\obj\Debug\E04_Calculadora_v1.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\11_20-10-2021\PFP\E04_Calculadora_v1\obj\Debug\E04_Calculadora_v1.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\11_20-10-2021\PFP\E04_Calculadora_v1\obj\Debug\Calculadora.exe
+C:\_APC_CP_2021\C01_PFP\11_20-10-2021\PFP\E04_Calculadora_v1\obj\Debug\Calculadora.pdb
