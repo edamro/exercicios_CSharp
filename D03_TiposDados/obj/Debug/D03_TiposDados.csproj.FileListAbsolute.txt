@@ -1,0 +1,7 @@
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D03_TiposDados\bin\Debug\D03_TiposDados.exe.config
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D03_TiposDados\bin\Debug\D03_TiposDados.exe
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D03_TiposDados\bin\Debug\D03_TiposDados.pdb
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D03_TiposDados\obj\Debug\D03_TiposDados.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D03_TiposDados\obj\Debug\D03_TiposDados.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D03_TiposDados\obj\Debug\D03_TiposDados.exe
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D03_TiposDados\obj\Debug\D03_TiposDados.pdb

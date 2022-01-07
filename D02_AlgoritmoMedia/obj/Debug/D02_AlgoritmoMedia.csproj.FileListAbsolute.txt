@@ -1,0 +1,7 @@
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\D02_AlgoritmoMedia\bin\Debug\D02_AlgoritmoMedia.exe.config
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\D02_AlgoritmoMedia\bin\Debug\D02_AlgoritmoMedia.exe
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\D02_AlgoritmoMedia\bin\Debug\D02_AlgoritmoMedia.pdb
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\D02_AlgoritmoMedia\obj\Debug\D02_AlgoritmoMedia.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\D02_AlgoritmoMedia\obj\Debug\D02_AlgoritmoMedia.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\D02_AlgoritmoMedia\obj\Debug\D02_AlgoritmoMedia.exe
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\D02_AlgoritmoMedia\obj\Debug\D02_AlgoritmoMedia.pdb

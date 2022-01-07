@@ -1,0 +1,7 @@
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\E01_NomeCompleto\bin\Debug\E01_NomeCompleto.exe.config
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\E01_NomeCompleto\bin\Debug\E01_NomeCompleto.exe
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\E01_NomeCompleto\bin\Debug\E01_NomeCompleto.pdb
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\E01_NomeCompleto\obj\Debug\E01_NomeCompleto.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\E01_NomeCompleto\obj\Debug\E01_NomeCompleto.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\E01_NomeCompleto\obj\Debug\E01_NomeCompleto.exe
+C:\_APC_CP_2021\C01_PFP\05_13-10-2021\PFP\E01_NomeCompleto\obj\Debug\E01_NomeCompleto.pdb

@@ -1,0 +1,7 @@
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D05_ManipulacaoDados\bin\Debug\D05_ManipulacaoDados.exe.config
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D05_ManipulacaoDados\bin\Debug\D05_ManipulacaoDados.exe
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D05_ManipulacaoDados\bin\Debug\D05_ManipulacaoDados.pdb
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D05_ManipulacaoDados\obj\Debug\D05_ManipulacaoDados.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D05_ManipulacaoDados\obj\Debug\D05_ManipulacaoDados.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D05_ManipulacaoDados\obj\Debug\D05_ManipulacaoDados.exe
+C:\_APC_CP_2021\C01_PFP\07_15-10-2021\PFP\D05_ManipulacaoDados\obj\Debug\D05_ManipulacaoDados.pdb

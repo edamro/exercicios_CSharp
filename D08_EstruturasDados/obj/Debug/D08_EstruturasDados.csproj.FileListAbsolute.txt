@@ -1,0 +1,14 @@
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D08_EstruturasDados\bin\Debug\D08_EstruturasDados.exe.config
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D08_EstruturasDados\bin\Debug\D08_EstruturasDados.exe
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D08_EstruturasDados\bin\Debug\D08_EstruturasDados.pdb
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D08_EstruturasDados\obj\Debug\D08_EstruturasDados.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D08_EstruturasDados\obj\Debug\D08_EstruturasDados.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D08_EstruturasDados\obj\Debug\D08_EstruturasDados.exe
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D08_EstruturasDados\obj\Debug\D08_EstruturasDados.pdb
+C:\_APC_CP_2021\C01_PFP\09_19-10-2021\PFP\D08_EstruturasDados\bin\Debug\D08_EstruturasDados.exe.config
+C:\_APC_CP_2021\C01_PFP\09_19-10-2021\PFP\D08_EstruturasDados\bin\Debug\D08_EstruturasDados.exe
+C:\_APC_CP_2021\C01_PFP\09_19-10-2021\PFP\D08_EstruturasDados\bin\Debug\D08_EstruturasDados.pdb
+C:\_APC_CP_2021\C01_PFP\09_19-10-2021\PFP\D08_EstruturasDados\obj\Debug\D08_EstruturasDados.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\09_19-10-2021\PFP\D08_EstruturasDados\obj\Debug\D08_EstruturasDados.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\09_19-10-2021\PFP\D08_EstruturasDados\obj\Debug\D08_EstruturasDados.exe
+C:\_APC_CP_2021\C01_PFP\09_19-10-2021\PFP\D08_EstruturasDados\obj\Debug\D08_EstruturasDados.pdb

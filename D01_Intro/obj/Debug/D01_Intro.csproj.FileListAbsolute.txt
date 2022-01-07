@@ -1,0 +1,7 @@
+C:\_APC_CP_2021\C01_PFP\04_12-10-2021\PFP\D01_Intro\bin\Debug\D01_Intro.exe.config
+C:\_APC_CP_2021\C01_PFP\04_12-10-2021\PFP\D01_Intro\bin\Debug\D01_Intro.exe
+C:\_APC_CP_2021\C01_PFP\04_12-10-2021\PFP\D01_Intro\bin\Debug\D01_Intro.pdb
+C:\_APC_CP_2021\C01_PFP\04_12-10-2021\PFP\D01_Intro\obj\Debug\D01_Intro.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\04_12-10-2021\PFP\D01_Intro\obj\Debug\D01_Intro.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\04_12-10-2021\PFP\D01_Intro\obj\Debug\D01_Intro.exe
+C:\_APC_CP_2021\C01_PFP\04_12-10-2021\PFP\D01_Intro\obj\Debug\D01_Intro.pdb

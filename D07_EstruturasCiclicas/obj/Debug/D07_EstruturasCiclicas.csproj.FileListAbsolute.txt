@@ -1,0 +1,7 @@
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D07_EstruturasCiclicas\bin\Debug\D07_EstruturasCiclicas.exe.config
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D07_EstruturasCiclicas\bin\Debug\D07_EstruturasCiclicas.exe
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D07_EstruturasCiclicas\bin\Debug\D07_EstruturasCiclicas.pdb
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D07_EstruturasCiclicas\obj\Debug\D07_EstruturasCiclicas.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D07_EstruturasCiclicas\obj\Debug\D07_EstruturasCiclicas.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D07_EstruturasCiclicas\obj\Debug\D07_EstruturasCiclicas.exe
+C:\_APC_CP_2021\C01_PFP\08_18-10-2021\PFP\D07_EstruturasCiclicas\obj\Debug\D07_EstruturasCiclicas.pdb

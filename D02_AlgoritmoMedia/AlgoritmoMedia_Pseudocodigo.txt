@@ -1,0 +1,23 @@
+-------------------------------------
+Algoritmia - Pseudocódigo
+
+Calcular média final de 2 notas
+-------------------------------------
+
+algoritmo "Calcular média final"
+
+variaveis nota1, nota2, media: real
+
+inicio
+    escrever ("Nota 1:")
+    ler (nota1)
+    escrever ("Nota 2:")
+    ler (nota2)
+    media <-- ((nota1 + nota2) / 2)
+    escrever ("Média = ", media)
+    se media >= 9.5 entao
+        escrever ("Aprovado")
+    senao
+        escrever ("Reprovado")
+	fim se
+fim
